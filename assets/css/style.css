@@ -504,4 +504,14 @@ footer {
     .nav {
         width: 100%;
     }
+
+    .carrito-icon-number{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    #contador-carrito {
+        position: relative;
+    }
 }
